@@ -67,6 +67,19 @@ const Work = () => {
         github: "https://github.com/Bppatkar/dominosreact",
       },
     },
+ {
+      title: "Dominos Landing Page",
+      stack: " React,Router-dom, html, css",
+      image: "./workSection/dominos.jpg",
+      description:
+        "It's my practice to enhance my skill set when I am starting to learn web development.",
+      links: {
+        linkedin:
+          "https://www.linkedin.com/posts/mohitsehrawat_reactjs-nike-nikecareers-activity-6947552300534042624-Jk75?utm_source=share&utm_medium=member_desktop",
+        website: "https://bhanu-dominos-react.netlify.app/",
+        github: "https://github.com/Bppatkar/dominosreact",
+      },
+    },
     {
       title: "HTML CSS Portfolio",
       stack: " html, css",
@@ -80,19 +93,7 @@ const Work = () => {
         github: "https://github.com/Bppatkar/MyPortfolio",
       },
     },
-{
-      title: "HTML CSS Portfolio",
-      stack: " html, css",
-      image: "./workSection/port.jpg",
-      description:
-        "I started learning Web development firstly I learn HTML and CSS so i think I have to do practice of it so for  enhancing my skill set I make this Portfolio Project using HTML and CSS.",
-      links: {
-        linkedin:
-          "https://www.linkedin.com/posts/bhanu-pratap-patkar_activity-7134772006469664768-qw0_/?utm_source=share&utm_medium=member_desktop",
-        website: "https://bppatkar.github.io/MyPortfolio/",
-        github: "https://github.com/Bppatkar/MyPortfolio",
-      },
-    },
+
     {
       title: "Music Production ",
       stack: " html, css",
