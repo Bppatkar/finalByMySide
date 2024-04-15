@@ -54,19 +54,7 @@ const Work = () => {
         github: "https://github.com/Bppatkar/todoListWorking",
       },
     },
-    {
-      title: "Dominos Landing Page",
-      stack: " React,Router-dom, html, css",
-      image: "./workSection/dominos.jpg",
-      description:
-        "It's my practice to enhance my skill set when I am starting to learn web development.",
-      links: {
-        linkedin:
-          "https://www.linkedin.com/posts/mohitsehrawat_reactjs-nike-nikecareers-activity-6947552300534042624-Jk75?utm_source=share&utm_medium=member_desktop",
-        website: "https://bhanu-dominos-react.netlify.app/",
-        github: "https://github.com/Bppatkar/dominosreact",
-      },
-    },
+    
  {
       title: "Dominos Landing Page",
       stack: " React,Router-dom, html, css",
