@@ -1,0 +1,52 @@
+.sidebar {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 250px;
+  height: 100vh;
+  background: rgba(255, 255, 255, 0.005);
+  color: #333;
+  position: fixed;
+  top: 0;
+  right: -250px;
+  transition: left 0.3s ease;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.2);
+  backdrop-filter: saturate(180%) blur(10px);
+  -webkit-backdrop-filter: blur(1.6px);
+  border: 1px solid rgba(255, 255, 255, 1);
+}
+
+.close-btn {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  cursor: pointer;
+  background: transparent;
+  border: none;
+  font-size: 18px;
+  /* color: #333; */
+}
+.sidebar.open {
+  right: 0;
+}
+
+.sidebar-toggle {
+  display: block;
+  margin: 10px;
+}
+
+nav ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+nav ul li {
+  padding: 30px;
+}
+
+nav ul li a {
+  color: #333;
+  text-decoration: none;
+}
+
+/* Add more styles as needed */
